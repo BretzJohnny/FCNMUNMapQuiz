@@ -1,0 +1,80 @@
+﻿body {
+    background-image: url(Images/FCMUNMapQuiz.jpg);
+    background-size:cover;
+    
+}
+
+        .MyTabStyle .ajax__tab_header {
+            font-family: "Helvetica Neue", Arial, Sans-Serif;
+            font-size: 12pt;
+            font-weight: bold;
+            display: block;
+        }
+
+            .MyTabStyle .ajax__tab_header .ajax__tab_outer {
+                padding-left: 10px;
+                margin-right: 3px;
+                border: solid 3px #fff;
+            }
+
+            .MyTabStyle .ajax__tab_header .ajax__tab_inner {
+                padding: 3px 10px 2px 0px;
+            }
+
+        /*.MyTabStyle .ajax_tab_active .ajax_tab_tab {
+            color: #ff0000;
+        }*/
+
+        .MyTabStyle .ajax__tab_hover .ajax__tab_outer {
+            background-color: #ff0000;
+        }
+
+        .MyTabStyle .ajax__tab_hover .ajax__tab_inner {
+            color: #fff;
+        }
+
+        .MyTabStyle .ajax__tab_hover .ajax__tab_tab {
+            color: #ffffff;
+        }
+
+        .MyTabStyle .ajax__tab_active .ajax__tab_outer {
+            border-bottom-color: #ffffff;
+            background-color: #04467f;
+        }
+
+        .MyTabStyle .ajax__tab_active .ajax__tab_inner {
+            color: #04467f;
+            border-color: #333;
+        }
+
+        .MyTabStyle .ajax__tab_active .ajax__tab_tab {
+            color: #ffffff;
+        }
+
+        .MyTabStyle .ajax__tab_header .ajax__tab_outer {
+            border-bottom-color: #ffffff;
+            background-color: #04467f;
+        }
+
+        .MyTabStyle .ajax__tab_header .ajax__tab_inner {
+            color: #fff;
+            border-color: #333;
+        }
+
+        .MyTabStyle .ajax__tab_header .ajax__tab_tab {
+            color: #ffffff;
+        }
+
+        /*.MyTabStyle .ajax__tab_inner .ajax__tab_tab {
+            color: #ffffff;
+        }*/
+
+        .MyTabStyle .ajax__tab_body {
+            font-family: verdana,tahoma,helvetica;
+            font-size: 10pt;
+            background-color: #fff;
+            background-image: url(../../Images/OldPaper.gif)
+            border-top-width: 0;
+            border: solid 1px #d7d7d7;
+            border-top-color: #ffffff;
+        }
